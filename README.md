@@ -1,80 +1,217 @@
-# Olá, eu sou o Wesley Caiã! 👋
+# Wesley Caiã
+
+### Front-end Developer · React · Next.js · TypeScript
+
+Construo interfaces modernas, sistemas web e experiências digitais com foco em **performance, arquitetura e qualidade de implementação**.
+
+[🌐 Portfólio](https://wesleycaiadev.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/wesley-caia-souza-santos/) · [✉️ Email](mailto:wesleycaia.dev@gmail.com)
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor **Front-end** com foco em **React, Next.js e TypeScript**.
+
+Antes do desenvolvimento web, atuei profissionalmente por cerca de 3 anos com **eletroeletrônica e diagnóstico de hardware**. Essa experiência desenvolveu minha capacidade de investigação, análise de falhas e resolução de problemas — competências que hoje aplico diretamente no desenvolvimento de software.
+
+Durante minha experiência na **Kleps**, tive contato com conceitos e práticas de **engenharia de software**, incluindo **Clean Architecture, Arquitetura Hexagonal, SOLID, separação de responsabilidades e organização de dependências**.
+
+Hoje aplico essa base na construção de aplicações web modernas, buscando equilibrar **experiência do usuário, arquitetura e manutenibilidade**.
+
+> **Do diagnóstico de hardware ao debugging de software.**
+
+---
+
+## Tech Stack
+
+### Front-end
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square\&logo=nextdotjs\&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)
+![GSAP](https://img.shields.io/badge/GSAP-111827?style=flat-square\&logo=greensock\&logoColor=88CE02)
+
+### Backend & Data
+
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square\&logo=supabase\&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square\&logo=postgresql\&logoColor=4169E1)
+
+### Arquitetura & Engenharia
+
+`Clean Architecture` `Arquitetura Hexagonal` `SOLID` `Separação de Responsabilidades`
+
+### Design & Ferramentas
+
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square\&logo=figma\&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=FFFFFF)
+
+---
+
+## Projetos em destaque
+
+### SpaSmooth
+
+**SaaS de gestão e agendamento para o segmento de Wellness.**
+
+Aplicação desenvolvida para centralizar processos administrativos e agendamentos em uma experiência web moderna.
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Clerk` `Tailwind CSS`
+
+**Destaques**
+
+* Arquitetura estruturada visando manutenção e evolução
+* Autenticação e proteção de rotas
+* PostgreSQL com Row Level Security
+* Interface responsiva
+* Fluxo de agendamento
+* Separação de responsabilidades
+* Integração entre interface, regras de negócio e persistência
+
+[Ver projeto no GitHub →](https://github.com/wesleycaiadev/spasmooth-landing)
+
+---
+
+### Vistoriador OpenCell
+
+**Aplicação criada para otimizar processos de vistoria e geração de laudos em assistência técnica.**
+
+O projeto nasceu de uma necessidade observada no ambiente profissional, transformando um processo manual em um fluxo mais estruturado e automatizado.
+
+**Stack**
+
+`JavaScript` `OCR` `Automação` `Processamento de dados`
+
+**Destaques**
+
+* Automação de etapas do processo de vistoria
+* Integração com OCR
+* Redução de tarefas manuais
+* Organização do fluxo operacional
+* Aplicação baseada em uma necessidade real de negócio
+
+[Ver projeto →](https://github.com/wesleycaiadev/SEU_LINK_AQUI)
+
+---
+
+### Fokus
+
+Aplicação de produtividade baseada na técnica **Pomodoro**, desenvolvida para explorar manipulação de estado, interações e construção de interfaces com JavaScript puro.
+
+**Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+[Ver aplicação →](https://wesleycaiadev.github.io/fokus-projeto/)
+
+---
+
+### Portfólio
+
+Meu portfólio pessoal desenvolvido para apresentar projetos, experiências e habilidades através de uma interface interativa e minimalista.
+
+**Stack**
+
+`React` `Next.js` `Tailwind CSS` `GSAP`
+
+[Visitar portfólio →](https://wesleycaiadev.vercel.app/)
+
+---
+
+## Engenharia de Software
+
+Minha experiência profissional me ensinou a olhar para software além da interface.
+
+Busco entender **como as responsabilidades estão distribuídas, quais são as dependências entre os componentes e como uma decisão arquitetural pode impactar a manutenção e evolução de um sistema**.
+
+Alguns dos conceitos que fazem parte da minha base:
+
+* **Clean Architecture**
+* **Arquitetura Hexagonal**
+* **SOLID**
+* **Separação de responsabilidades**
+* **Inversão de dependência**
+* **Organização de camadas**
+* **Código orientado à manutenção e evolução**
+
+Minha abordagem parte de um princípio simples:
+
+```text
+Problema
+   ↓
+Entendimento
+   ↓
+Modelagem
+   ↓
+Arquitetura
+   ↓
+Implementação
+   ↓
+Testes
+   ↓
+Otimização
+```
+
+---
+
+## Minha trajetória
+
+```text
+Eletroeletrônica
+      ↓
+Diagnóstico de Hardware
+      ↓
+Raciocínio Analítico
+      ↓
+Engenharia de Software
+      ↓
+Arquitetura
+      ↓
+Desenvolvimento Front-end
+      ↓
+React · Next.js · TypeScript
+```
+
+Essa trajetória influencia diretamente a forma como desenvolvo software:
+
+**investigar → entender → estruturar → implementar → otimizar.**
+
+---
+
+## GitHub
 
 <div align="center">
-  <a href="https://wesleycaiadev.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end;Especialista+em+React+%26+Next.js;Interfaces+que+impressionam;WESLEY.DEV" alt="Typing SVG" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wesleycaiadev&show_icons=true&hide_border=true&bg_color=00000000&title_color=A8B2D1&text_color=9CA3AF&icon_color=A8B2D1" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycaiadev&layout=compact&hide_border=true&bg_color=00000000&title_color=A8B2D1&text_color=9CA3AF" />
+
 </div>
 
-## 👨‍💻 Sobre Mim
-
-Sou um **Desenvolvedor Front-end** (22 anos) focado em construir interfaces responsivas, animadas e *pixel-perfect* — do conceito ao deploy. 
-
-Trago comigo um background técnico sólido em eletroeletrônica e manutenção de hardware. Essa experiência de campo lidando com diagnósticos complexos me deu uma capacidade analítica afiada para debugar código e uma atenção obsessiva aos detalhes na hora de arquitetar software. Meu compromisso é com código limpo, escalável e entregas precisas.
-
-- 🚀 **Foco Atual:** Criando ecossistemas web modernos com **React, Next.js, TypeScript e Tailwind CSS**.
-- 🧠 **O que me move:** Pensar na experiência do usuário de ponta a ponta, unindo estética refinada (com animações em GSAP) e alta performance (SSR, Clean Architecture).
-- ⚡ **Fora do código:** Sou entusiasta do mundo automotivo, fã de automação residencial e filmes de corrida.
-
 ---
 
-## 🚀 Projetos em Destaque
+## Vamos construir algo?
 
-### 🌿 [SpaSmooth](https://github.com/wesleycaiadev/spasmooth-landing)
-Uma aplicação Full-Stack premium projetada para o nicho Wellness. Combina uma Landing Page de alta conversão com um SaaS de gestão administrativa.
-* **Stack:** Next.js 14, React, Supabase (PostgreSQL + RLS), Clerk Auth, TypeScript, Tailwind.
-* **Destaque:** Implementação de Clean Architecture no lado do servidor e proteção de rotas avançada.
-
-### ⏱️ [Fokus](https://wesleycaiadev.github.io/fokus-projeto/)
-Um ambiente imersivo projetado cientificamente para desenvolvedores manterem estado de *flow*, maximizando o rendimento e controlando ciclos de foco.
-* **Stack:** HTML5, CSS3, Vanilla JavaScript.
-
-### 💻 [Portfólio Pessoal](https://wesleycaiadev.vercel.app/)
-Meu espaço na web, desenhado para demonstrar meu domínio sobre layouts modernos, micro-interações e atenção ao design.
-* **Stack:** React, Next.js, GSAP, Tailwind.
-
----
-
-## 🛠️ Tech Stack & Ferramentas
+Estou aberto a **oportunidades, projetos e colaborações** envolvendo desenvolvimento web, interfaces e produtos digitais.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
-  <br>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://wesleycaiadev.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/wesley-caia-souza-santos/)
+
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:wesleycaia.dev@gmail.com)
+
 </div>
 
----
-
-## 📊 Estatísticas
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleycaiadev&theme=dark&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="Estatísticas de Commits" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleycaiadev&theme=dark&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF" alt="Linguagens Mais Usadas" height="170"/>
-</div>
 
----
+`wesley.dev`
 
-## 📫 Vamos criar algo incrível?
-
-<div align="center">
-  <a href="https://wesleycaiadev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:wesleycaia.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
