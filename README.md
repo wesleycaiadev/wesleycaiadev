@@ -1,217 +1,72 @@
 # Wesley Caiã
 
-### Front-end Developer · React · Next.js · TypeScript
+### Desenvolvedor Front-end · React · Next.js · Angular · TypeScript
 
-Construo interfaces modernas, sistemas web e experiências digitais com foco em **performance, arquitetura e qualidade de implementação**.
+Construo interfaces e produtos digitais com foco em clareza, performance, acessibilidade e qualidade de implementação.
 
-[🌐 Portfólio](https://wesleycaiadev.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/wesley-caia-souza-santos/) · [✉️ Email](mailto:wesleycaia.dev@gmail.com)
+[Portfólio](https://wesleycaiadev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/wesley-caia-dev/) · [Email](mailto:wesleycaia.dev@gmail.com)
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor **Front-end** com foco em **React, Next.js e TypeScript**.
+Sou desenvolvedor Front-end com experiência em **React, Next.js, Angular e TypeScript**. Gosto de transformar problemas reais em interfaces responsivas, bem estruturadas e prontas para evoluir.
 
-Antes do desenvolvimento web, atuei profissionalmente por cerca de 3 anos com **eletroeletrônica e diagnóstico de hardware**. Essa experiência desenvolveu minha capacidade de investigação, análise de falhas e resolução de problemas — competências que hoje aplico diretamente no desenvolvimento de software.
+Antes do desenvolvimento web, atuei com eletroeletrônica e diagnóstico de hardware. Essa base fortaleceu minha forma de investigar falhas, entender causas e construir soluções com método.
 
-Durante minha experiência na **Kleps**, tive contato com conceitos e práticas de **engenharia de software**, incluindo **Clean Architecture, Arquitetura Hexagonal, SOLID, separação de responsabilidades e organização de dependências**.
+Tenho vivência em ambiente de produto com Angular, Signals, Storybook, testes unitários, SSR, Docker, Git, pull requests e CI/CD.
 
-Hoje aplico essa base na construção de aplicações web modernas, buscando equilibrar **experiência do usuário, arquitetura e manutenibilidade**.
+## Stack
 
-> **Do diagnóstico de hardware ao debugging de software.**
+**Front-end:** React · Next.js · Angular · TypeScript · JavaScript · HTML · CSS/SCSS · Tailwind CSS
 
----
+**Dados e integrações:** Supabase · PostgreSQL · Storage · RLS · APIs
 
-## Tech Stack
+**Qualidade e entrega:** Jest · Vitest · Playwright · Storybook · Docker · GitHub Actions · Vercel
 
-### Front-end
+**Interface e motion:** Figma · GSAP · Framer Motion · design systems · SEO técnico
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript\&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111827?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square\&logo=nextdotjs\&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)
-![GSAP](https://img.shields.io/badge/GSAP-111827?style=flat-square\&logo=greensock\&logoColor=88CE02)
-
-### Backend & Data
-
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square\&logo=supabase\&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square\&logo=postgresql\&logoColor=4169E1)
-
-### Arquitetura & Engenharia
-
-`Clean Architecture` `Arquitetura Hexagonal` `SOLID` `Separação de Responsabilidades`
-
-### Design & Ferramentas
-
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square\&logo=figma\&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=FFFFFF)
-
----
+**Engenharia:** Clean Code · SOLID · Arquitetura Hexagonal · componentização · acessibilidade
 
 ## Projetos em destaque
 
-### SpaSmooth
+### [SpaSmooTh](https://spasmooth.com.br/)
 
-**SaaS de gestão e agendamento para o segmento de Wellness.**
+Plataforma de agendamento e gestão em produção para o segmento de wellness.
 
-Aplicação desenvolvida para centralizar processos administrativos e agendamentos em uma experiência web moderna.
+`Next.js` `React` `Supabase` `PostgreSQL` `Clerk` `Tailwind CSS`
 
-**Stack**
+- Agendamento por unidade, serviço, profissional, data e horário.
+- Painel administrativo, regras de disponibilidade e prevenção de conflitos.
+- Proteção de rotas, validação de dados e Row Level Security.
+- SEO técnico, sitemap e interface responsiva.
 
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Clerk` `Tailwind CSS`
+[Ver código](https://github.com/wesleycaiadev/spasmooth-landing)
 
-**Destaques**
+### [Consultor Automotivo](https://github.com/wesleycaiadev/consultor-automotivo)
 
-* Arquitetura estruturada visando manutenção e evolução
-* Autenticação e proteção de rotas
-* PostgreSQL com Row Level Security
-* Interface responsiva
-* Fluxo de agendamento
-* Separação de responsabilidades
-* Integração entre interface, regras de negócio e persistência
+Plataforma de curadoria automotiva com showroom, busca personalizada, catálogo de veículos e painel administrativo.
 
-[Ver projeto no GitHub →](https://github.com/wesleycaiadev/spasmooth-landing)
+`Angular` `TypeScript` `SSR` `SCSS` `Supabase` `GSAP` `Vitest` `Playwright`
 
----
+### [SafeScope](https://github.com/wesleycaiadev/safescope)
 
-### Vistoriador OpenCell
+Projeto em desenvolvimento para auditoria defensiva de aplicações web, com escopo controlado, autorização explícita e relatórios de remediação.
 
-**Aplicação criada para otimizar processos de vistoria e geração de laudos em assistência técnica.**
+`Python` `FastAPI` `Next.js` `PostgreSQL` `SQLite` `Docker`
 
-O projeto nasceu de uma necessidade observada no ambiente profissional, transformando um processo manual em um fluxo mais estruturado e automatizado.
+### [Fokus](https://github.com/wesleycaiadev/fokus-projeto)
 
-**Stack**
-
-`JavaScript` `OCR` `Automação` `Processamento de dados`
-
-**Destaques**
-
-* Automação de etapas do processo de vistoria
-* Integração com OCR
-* Redução de tarefas manuais
-* Organização do fluxo operacional
-* Aplicação baseada em uma necessidade real de negócio
-
-[Ver projeto →](https://github.com/wesleycaiadev/SEU_LINK_AQUI)
-
----
-
-### Fokus
-
-Aplicação de produtividade baseada na técnica **Pomodoro**, desenvolvida para explorar manipulação de estado, interações e construção de interfaces com JavaScript puro.
-
-**Stack**
+Aplicação de produtividade baseada na técnica Pomodoro para praticar DOM, eventos, estado local e persistência no navegador.
 
 `HTML5` `CSS3` `JavaScript`
 
-[Ver aplicação →](https://wesleycaiadev.github.io/fokus-projeto/)
+[Ver aplicação](https://wesleycaiadev.github.io/fokus-projeto/)
 
----
+## Contato
 
-### Portfólio
+Estou aberto a oportunidades e projetos de desenvolvimento Front-end, interfaces, sistemas web e produtos digitais.
 
-Meu portfólio pessoal desenvolvido para apresentar projetos, experiências e habilidades através de uma interface interativa e minimalista.
-
-**Stack**
-
-`React` `Next.js` `Tailwind CSS` `GSAP`
-
-[Visitar portfólio →](https://wesleycaiadev.vercel.app/)
-
----
-
-## Engenharia de Software
-
-Minha experiência profissional me ensinou a olhar para software além da interface.
-
-Busco entender **como as responsabilidades estão distribuídas, quais são as dependências entre os componentes e como uma decisão arquitetural pode impactar a manutenção e evolução de um sistema**.
-
-Alguns dos conceitos que fazem parte da minha base:
-
-* **Clean Architecture**
-* **Arquitetura Hexagonal**
-* **SOLID**
-* **Separação de responsabilidades**
-* **Inversão de dependência**
-* **Organização de camadas**
-* **Código orientado à manutenção e evolução**
-
-Minha abordagem parte de um princípio simples:
-
-```text
-Problema
-   ↓
-Entendimento
-   ↓
-Modelagem
-   ↓
-Arquitetura
-   ↓
-Implementação
-   ↓
-Testes
-   ↓
-Otimização
-```
-
----
-
-## Minha trajetória
-
-```text
-Eletroeletrônica
-      ↓
-Diagnóstico de Hardware
-      ↓
-Raciocínio Analítico
-      ↓
-Engenharia de Software
-      ↓
-Arquitetura
-      ↓
-Desenvolvimento Front-end
-      ↓
-React · Next.js · TypeScript
-```
-
-Essa trajetória influencia diretamente a forma como desenvolvo software:
-
-**investigar → entender → estruturar → implementar → otimizar.**
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wesleycaiadev&show_icons=true&hide_border=true&bg_color=00000000&title_color=A8B2D1&text_color=9CA3AF&icon_color=A8B2D1" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycaiadev&layout=compact&hide_border=true&bg_color=00000000&title_color=A8B2D1&text_color=9CA3AF" />
-
-</div>
-
----
-
-## Vamos construir algo?
-
-Estou aberto a **oportunidades, projetos e colaborações** envolvendo desenvolvimento web, interfaces e produtos digitais.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://wesleycaiadev.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/wesley-caia-souza-santos/)
-
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:wesleycaia.dev@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-
-`wesley.dev`
-
-</div>
+[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://wesleycaiadev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/wesley-caia-dev/)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:wesleycaia.dev@gmail.com)
