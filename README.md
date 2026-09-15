@@ -1,72 +1,31 @@
-# Wesley Caiã
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0b1f18,55:164e3b,100:2f6f56%26height=190%26section=header%26text=WESLEY%2520CAI%25C3%2583%26fontSize=48%26fontColor=f7f5ef%26animation=fadeIn%26fontAlignY=36%26desc=FRONT-END%2520DEVELOPER%26descAlignY=57%26descSize=16" alt="Wesley Caiã" />
+</p>
 
-### Desenvolvedor Front-end · React · Next.js · Angular · TypeScript
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono%26weight=500%26size=18%26duration=3200%26pause=900%26color=4FAE83%26center=true%26vCenter=true%26width=620%26lines=Interfaces+com+clareza%252C+ritmo+e+presen%25C3%25A7a.%3BReact+%25C2%25B7+Next.js+%25C2%25B7+Angular+%25C2%25B7+TypeScript%3BDo+c%25C3%25B3digo+ao+produto+que+as+pessoas+querem+usar." alt="Texto animado" /></p>
 
-Construo interfaces e produtos digitais com foco em clareza, performance, acessibilidade e qualidade de implementação.
-
-[Portfólio](https://wesleycaiadev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/wesley-caia-dev/) · [Email](mailto:wesleycaia.dev@gmail.com)
+<p align="center"><a href="https://wesleycaiadev.vercel.app/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0b1f18?style=for-the-badge%26logo=vercel%26logoColor=F7F5EF" /></a> <a href="https://www.linkedin.com/in/wesley-caia-dev/"><img src="https://img.shields.io/badge/LINKEDIN-164e3b?style=for-the-badge%26logo=linkedin%26logoColor=F7F5EF" /></a> <a href="mailto:wesleycaia.dev@gmail.com"><img src="https://img.shields.io/badge/CONTATO-2f6f56?style=for-the-badge%26logo=gmail%26logoColor=F7F5EF" /></a></p>
 
 ---
 
-## Sobre mim
+### Uma linha de código por vez, mas sempre com intenção.
 
-Sou desenvolvedor Front-end com experiência em **React, Next.js, Angular e TypeScript**. Gosto de transformar problemas reais em interfaces responsivas, bem estruturadas e prontas para evoluir.
+Sou **Wesley Caiã**, desenvolvedor Front-end em Aracaju/SE. Transformo interfaces em experiências rápidas, acessíveis e bem resolvidas — da arquitetura ao detalhe da interação.
 
-Antes do desenvolvimento web, atuei com eletroeletrônica e diagnóstico de hardware. Essa base fortaleceu minha forma de investigar falhas, entender causas e construir soluções com método.
+React · Next.js · Angular · TypeScript · JavaScript · SCSS · Tailwind · Supabase · GitHub Actions
 
-Tenho vivência em ambiente de produto com Angular, Signals, Storybook, testes unitários, SSR, Docker, Git, pull requests e CI/CD.
+### Projetos em destaque
 
-## Stack
+| Projeto | O que construí |
+| :-- | :-- |
+| [**SpaSmooTh**](https://spasmooth.com.br/) | Plataforma real de agendamento e administração com Next.js, Supabase e autenticação. |
+| [**Consultor Automotivo**](https://github.com/wesleycaiadev/consultor-automotivo) | Curadoria automotiva com showroom, painel administrativo e experiência premium. |
+| [**SafeScope**](https://github.com/wesleycaiadev/safescope) | Auditoria defensiva local-first para aplicações web, com escopo e autorização controlados. |
 
-**Front-end:** React · Next.js · Angular · TypeScript · JavaScript · HTML · CSS/SCSS · Tailwind CSS
+### Atividade em movimento
 
-**Dados e integrações:** Supabase · PostgreSQL · Storage · RLS · APIs
+<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleycaiadev%26show_icons=true%26hide_border=true%26bg_color=0b1f18%26title_color=7ad7a8%26text_color=f7f5ef%26icon_color=7ad7a8" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=wesleycaiadev%26hide_border=true%26background=0b1f18%26stroke=164e3b%26ring=7ad7a8%26fire=7ad7a8%26currStreakLabel=f7f5ef%26sideLabels=f7f5ef%26dates=9ac4ae%26currStreakNum=f7f5ef%26sideNums=f7f5ef" /></p>
 
-**Qualidade e entrega:** Jest · Vitest · Playwright · Storybook · Docker · GitHub Actions · Vercel
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleycaiadev%26bg_color=0b1f18%26color=f7f5ef%26line=4fae83%26point=7ad7a8%26area=true%26area_color=164e3b%26hide_border=true" alt="Gráfico de contribuições" /></p>
 
-**Interface e motion:** Figma · GSAP · Framer Motion · design systems · SEO técnico
-
-**Engenharia:** Clean Code · SOLID · Arquitetura Hexagonal · componentização · acessibilidade
-
-## Projetos em destaque
-
-### [SpaSmooTh](https://spasmooth.com.br/)
-
-Plataforma de agendamento e gestão em produção para o segmento de wellness.
-
-`Next.js` `React` `Supabase` `PostgreSQL` `Clerk` `Tailwind CSS`
-
-- Agendamento por unidade, serviço, profissional, data e horário.
-- Painel administrativo, regras de disponibilidade e prevenção de conflitos.
-- Proteção de rotas, validação de dados e Row Level Security.
-- SEO técnico, sitemap e interface responsiva.
-
-[Ver código](https://github.com/wesleycaiadev/spasmooth-landing)
-
-### [Consultor Automotivo](https://github.com/wesleycaiadev/consultor-automotivo)
-
-Plataforma de curadoria automotiva com showroom, busca personalizada, catálogo de veículos e painel administrativo.
-
-`Angular` `TypeScript` `SSR` `SCSS` `Supabase` `GSAP` `Vitest` `Playwright`
-
-### [SafeScope](https://github.com/wesleycaiadev/safescope)
-
-Projeto em desenvolvimento para auditoria defensiva de aplicações web, com escopo controlado, autorização explícita e relatórios de remediação.
-
-`Python` `FastAPI` `Next.js` `PostgreSQL` `SQLite` `Docker`
-
-### [Fokus](https://github.com/wesleycaiadev/fokus-projeto)
-
-Aplicação de produtividade baseada na técnica Pomodoro para praticar DOM, eventos, estado local e persistência no navegador.
-
-`HTML5` `CSS3` `JavaScript`
-
-[Ver aplicação](https://wesleycaiadev.github.io/fokus-projeto/)
-
-## Contato
-
-Estou aberto a oportunidades e projetos de desenvolvimento Front-end, interfaces, sistemas web e produtos digitais.
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://wesleycaiadev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/wesley-caia-dev/)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:wesleycaia.dev@gmail.com)
+<p align="center"><i>Disponível para construir produtos digitais que funcionam tão bem quanto parecem.</i></p>
