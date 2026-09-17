@@ -1,31 +1,104 @@
+<a href="https://wesleycaiadev.vercel.app/">
+  <img src="./assets/hero.svg" width="100%" alt="Wesley Caiã — Desenvolvedor Front-end. Código sólido. Interfaces memoráveis." />
+</a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0b1f18,55:164e3b,100:2f6f56%26height=190%26section=header%26text=WESLEY%2520CAI%25C3%2583%26fontSize=48%26fontColor=f7f5ef%26animation=fadeIn%26fontAlignY=36%26desc=FRONT-END%2520DEVELOPER%26descAlignY=57%26descSize=16" alt="Wesley Caiã" />
+  <a href="https://wesleycaiadev.vercel.app/"><strong>PORTFÓLIO ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/wesley-caia-dev/"><strong>LINKEDIN ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:wesleycaia.dev@gmail.com"><strong>VAMOS CONVERSAR ↗</strong></a>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono%26weight=500%26size=18%26duration=3200%26pause=900%26color=4FAE83%26center=true%26vCenter=true%26width=620%26lines=Interfaces+com+clareza%252C+ritmo+e+presen%25C3%25A7a.%3BReact+%25C2%25B7+Next.js+%25C2%25B7+Angular+%25C2%25B7+TypeScript%3BDo+c%25C3%25B3digo+ao+produto+que+as+pessoas+querem+usar." alt="Texto animado" /></p>
+<br>
 
-<p align="center"><a href="https://wesleycaiadev.vercel.app/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0b1f18?style=for-the-badge%26logo=vercel%26logoColor=F7F5EF" /></a> <a href="https://www.linkedin.com/in/wesley-caia-dev/"><img src="https://img.shields.io/badge/LINKEDIN-164e3b?style=for-the-badge%26logo=linkedin%26logoColor=F7F5EF" /></a> <a href="mailto:wesleycaia.dev@gmail.com"><img src="https://img.shields.io/badge/CONTATO-2f6f56?style=for-the-badge%26logo=gmail%26logoColor=F7F5EF" /></a></p>
+### 01 / Sobre mim
+
+Sou **Wesley Caiã**, desenvolvedor Front-end em Aracaju/SE. Gosto do encontro entre engenharia e design: componentes bem estruturados, navegação clara e movimento que ajuda a contar uma história.
+
+Trabalho com **React, Next.js, Angular e TypeScript**. Meus projetos vão de aplicações de estudo a produtos usados por negócios reais, com agendamento, catálogos e painéis administrativos.
+
+**Meu foco:** interfaces responsivas, acessibilidade, performance e atenção ao acabamento.
+
+<br>
+
+### 02 / Projetos selecionados
+
+<a href="https://spasmooth.com.br/">
+  <img src="./assets/spasmooth.svg" width="100%" alt="SpaSmooTh — plataforma de agendamento e gestão com Next.js, React, Supabase e Clerk." />
+</a>
+
+**Do serviço ao atendimento:** fluxo de agendamento por unidade, profissional e horário; gestão de agenda e conteúdo no painel administrativo.
+
+[Visitar o site ↗](https://spasmooth.com.br/) · [Explorar o código ↗](https://github.com/wesleycaiadev/spasmooth-landing)
+
+<br>
+
+<a href="https://github.com/wesleycaiadev/consultor-automotivo">
+  <img src="./assets/automotivo.svg" width="100%" alt="Marques Felipe — curadoria automotiva com Angular, TypeScript, Signals e SCSS." />
+</a>
+
+**Da busca à decisão:** showroom com filtros, detalhes dos veículos, busca personalizada e gestão de catálogo. Angular com SSR, Signals e componentes standalone.
+
+[Explorar o código e a arquitetura ↗](https://github.com/wesleycaiadev/consultor-automotivo)
+
+<br>
+
+<a href="https://github.com/wesleycaiadev/desafio-frontend-ma9">
+  <img src="./assets/ma9.svg" width="100%" alt="Gerenciador de produtos MA9 — desafio técnico com React, TypeScript, Zustand e Vitest." />
+</a>
+
+**Da interface ao comportamento:** CRUD, busca, filtros e formulários, com estado global por domínio e testes de componentes.
+
+[Explorar o desafio técnico ↗](https://github.com/wesleycaiadev/desafio-frontend-ma9)
+
+<sub>As capas são ilustrações autorais dos projetos, não capturas das aplicações.</sub>
+
+<br><br>
+
+### 03 / Caixa de ferramentas
+
+| Interfaces | Design & experiência | Qualidade & entrega |
+| :--- | :--- | :--- |
+| React · Next.js · Angular | HTML · CSS · SCSS · Tailwind | Git · GitHub · CI/CD |
+| TypeScript · JavaScript | GSAP · Motion · Storybook | Jest · Vitest · Docker |
+| Signals · Zustand | Responsividade · Acessibilidade | Supabase · Clerk · Vercel |
+
+<br>
+
+### 04 / Como penso o front-end
+
+**Estrutura antes de escala.** Componentes com responsabilidades claras e estado próximo de onde é usado.
+
+**Design que funciona.** Hierarquia, contraste, navegação por teclado e layouts pensados também para telas pequenas.
+
+**Movimento com propósito.** Transições e microinterações para orientar a experiência, respeitando performance e redução de movimento.
+
+<br>
+
+### 05 / Construindo em público
+
+Mais código e experimentos: [VG-TECH](https://github.com/wesleycaiadev/VG-TECH) · [Fokus](https://github.com/wesleycaiadev/fokus-projeto) · [Todos os repositórios](https://github.com/wesleycaiadev?tab=repositories).
+
+Meu histórico real de contribuições está no calendário nativo abaixo dos repositórios fixados. A matriz animada do cabeçalho é uma assinatura visual, inspirada nesse calendário.
+
+<br>
 
 ---
 
-### Uma linha de código por vez, mas sempre com intenção.
+<p align="center">
+  <strong>Tem uma oportunidade ou um projeto em mente?</strong><br>
+  Vamos transformar a ideia em uma experiência que vale a pena usar.<br><br>
+  <a href="mailto:wesleycaia.dev@gmail.com">wesleycaia.dev@gmail.com</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/wesley-caia-dev/">LinkedIn</a>
+</p>
 
-Sou **Wesley Caiã**, desenvolvedor Front-end em Aracaju/SE. Transformo interfaces em experiências rápidas, acessíveis e bem resolvidas — da arquitetura ao detalhe da interação.
-
-React · Next.js · Angular · TypeScript · JavaScript · SCSS · Tailwind · Supabase · GitHub Actions
-
-### Projetos em destaque
-
-| Projeto | O que construí |
-| :-- | :-- |
-| [**SpaSmooTh**](https://spasmooth.com.br/) | Plataforma real de agendamento e administração com Next.js, Supabase e autenticação. |
-| [**Consultor Automotivo**](https://github.com/wesleycaiadev/consultor-automotivo) | Curadoria automotiva com showroom, painel administrativo e experiência premium. |
-| [**SafeScope**](https://github.com/wesleycaiadev/safescope) | Auditoria defensiva local-first para aplicações web, com escopo e autorização controlados. |
-
-### Atividade em movimento
-
-<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleycaiadev%26show_icons=true%26hide_border=true%26bg_color=0b1f18%26title_color=7ad7a8%26text_color=f7f5ef%26icon_color=7ad7a8" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=wesleycaiadev%26hide_border=true%26background=0b1f18%26stroke=164e3b%26ring=7ad7a8%26fire=7ad7a8%26currStreakLabel=f7f5ef%26sideLabels=f7f5ef%26dates=9ac4ae%26currStreakNum=f7f5ef%26sideNums=f7f5ef" /></p>
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleycaiadev%26bg_color=0b1f18%26color=f7f5ef%26line=4fae83%26point=7ad7a8%26area=true%26area_color=164e3b%26hide_border=true" alt="Gráfico de contribuições" /></p>
-
-<p align="center"><i>Disponível para construir produtos digitais que funcionam tão bem quanto parecem.</i></p>
+<!--
+Artes SVG autorais, versionadas neste repositório, sem scripts ou fontes remotas.
+A animação respeita prefers-reduced-motion.
+Referências de estrutura e possibilidades de README:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/DenverCoder1/DenverCoder1
+https://github.com/Platane/snk
+-->
